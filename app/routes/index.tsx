@@ -23,7 +23,7 @@ export default function Index() {
 
   return (
     <div style={{ textAlign: "center", padding: 20 }}>
-      <h2>Welcome to Remix!</h2>
+      <h2>Welcome World Milan, to Remix!</h2>
       <p>
         <a href="/two">Here's another page</a>
       </p>
